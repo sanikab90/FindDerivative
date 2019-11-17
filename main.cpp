@@ -1,5 +1,5 @@
 /*
- * Sanika Buche ssb170002
+ * Sanika Buche
  * A program that reads in a function from a file and takes the derivative of it
  */
 
